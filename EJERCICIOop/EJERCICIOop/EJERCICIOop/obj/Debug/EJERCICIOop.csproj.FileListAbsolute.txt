@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\programacion1\EJERCICIOop\EJERCICIOop\bin\Debug\EJERCICIOop.exe.config
+C:\Users\Kevin\Desktop\programacion1\EJERCICIOop\EJERCICIOop\bin\Debug\EJERCICIOop.exe
+C:\Users\Kevin\Desktop\programacion1\EJERCICIOop\EJERCICIOop\bin\Debug\EJERCICIOop.pdb
+C:\Users\Kevin\Desktop\programacion1\EJERCICIOop\EJERCICIOop\obj\Debug\EJERCICIOop.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\programacion1\EJERCICIOop\EJERCICIOop\obj\Debug\EJERCICIOop.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\programacion1\EJERCICIOop\EJERCICIOop\obj\Debug\EJERCICIOop.exe
+C:\Users\Kevin\Desktop\programacion1\EJERCICIOop\EJERCICIOop\obj\Debug\EJERCICIOop.pdb
